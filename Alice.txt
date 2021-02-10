@@ -1,7 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 This is a change "Bob" has made to the second line. Whoops!
 
 Merging divergent branches step....
 
 Rebasing, adding to change.
+
+Making change to Alice.txt on GitHub website

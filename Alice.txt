@@ -5,4 +5,4 @@ Merging divergent branches step....
 
 Rebasing, adding to change.
 
-Making change to Alice.txt on GitHub website
+Making change to Alice.txt on GitHub website. WOohoo!

@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a change "Bob" has made to the second line. Whoops!
 
 Merging divergent branches step....
+
+Rebasing, adding to change
